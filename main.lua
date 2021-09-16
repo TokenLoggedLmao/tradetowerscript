@@ -4,7 +4,7 @@
 -- Instances:
 
 local ScreenGui = Instance.new("ScreenGui")
-local Main = Instance.new("Frame")
+local Main = Instance.new("Main")
 local Frame = Instance.new("Frame")
 local TextButton = Instance.new("TextButton")
 local TextButton_2 = Instance.new("TextButton")
